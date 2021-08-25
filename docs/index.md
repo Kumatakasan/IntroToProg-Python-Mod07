@@ -16,14 +16,20 @@ We were tasked with creating our own program with no specific requirements.  I d
 
 Figure 1 shows some code for the pickling demo. Figure 2 shows the output of the pickling demo code.  Figure 3 shows the math processing code to check the input and to do the math.  Figure 4 shows the main part of the math script.  Figure 5 shows the math script having a successful run and output some math.  Figure 6 shows the response when the input is not a number.  Figure 7 shows the response when division by zero happens.
 
-![Pickling code](https://github.com/Kumatakasan/IntroToProg-Python-Mod07/blob/main/docs/Pickling_Code.PNG)
-     Figure 1. Results of pickling code.
-![Pickling code output](https://github.com/Kumatakasan/IntroToProg-Python-Mod07/blob/main/docs/Pickling_Output.PNG)
-![Math processing code](https://github.com/Kumatakasan/IntroToProg-Python-Mod07/blob/main/docs/Math_Processor_Code.PNG)
-![Math main input code](https://github.com/Kumatakasan/IntroToProg-Python-Mod07/blob/main/docs/Math_Main_Input_Code.PNG)
-![Math correct output](https://github.com/Kumatakasan/IntroToProg-Python-Mod07/blob/main/docs/Math_Correct_Output.PNG)
-![Math integer fail](https://github.com/Kumatakasan/IntroToProg-Python-Mod07/blob/main/docs/Integer_Fail.PNG)
-![Math division error](https://github.com/Kumatakasan/IntroToProg-Python-Mod07/blob/main/docs/Math_DivisionError.PNG)
+![Pickling code](https://github.com/Kumatakasan/IntroToProg-Python-Mod07/blob/main/docs/Pickling_Code.PNG)####
+Figure 1. Results of pickling code.
+![Pickling code output](https://github.com/Kumatakasan/IntroToProg-Python-Mod07/blob/main/docs/Pickling_Output.PNG)#### 
+Figure 2. Pickling code output.
+![Math processing code](https://github.com/Kumatakasan/IntroToProg-Python-Mod07/blob/main/docs/Math_Processor_Code.PNG)####
+Figure 3. Math processing code.
+![Math main input code](https://github.com/Kumatakasan/IntroToProg-Python-Mod07/blob/main/docs/Math_Main_Input_Code.PNG)#### 
+Figure 4. Math main input code.
+![Math correct output](https://github.com/Kumatakasan/IntroToProg-Python-Mod07/blob/main/docs/Math_Correct_Output.PNG)#### 
+Figure 5. Math correct output.
+![Math integer fail](https://github.com/Kumatakasan/IntroToProg-Python-Mod07/blob/main/docs/Integer_Fail.PNG)#### 
+Figure 6. Math integer fail.
+![Math division error](https://github.com/Kumatakasan/IntroToProg-Python-Mod07/blob/main/docs/Math_DivisionError.PNG)#### 
+Figure 7. Math division error.
 
 ## Summary
 Assignment 7 introduced us to using pickling for binary data and how to handle exceptions.  Pickling works much like working with a text file however it is in binary format.  Using exceptions in your code is a good way to deal with wrong inputs so that the program doesn’t crash.  
