@@ -19,21 +19,27 @@ Figure 1 shows some code for the pickling demo. Figure 2 shows the output of the
 ![Pickling code](https://github.com/Kumatakasan/IntroToProg-Python-Mod07/blob/main/docs/Pickling_Code.PNG)
 
 Figure 1. Results of pickling code.
+
 ![Pickling code output](https://github.com/Kumatakasan/IntroToProg-Python-Mod07/blob/main/docs/Pickling_Output.PNG)
 
 Figure 2. Pickling code output.
+
 ![Math processing code](https://github.com/Kumatakasan/IntroToProg-Python-Mod07/blob/main/docs/Math_Processor_Code.PNG)
 
 Figure 3. Math processing code.
+
 ![Math main input code](https://github.com/Kumatakasan/IntroToProg-Python-Mod07/blob/main/docs/Math_Main_Input_Code.PNG) 
 
 Figure 4. Math main input code.
+
 ![Math correct output](https://github.com/Kumatakasan/IntroToProg-Python-Mod07/blob/main/docs/Math_Correct_Output.PNG)
 
 Figure 5. Math correct output.
+
 ![Math integer fail](https://github.com/Kumatakasan/IntroToProg-Python-Mod07/blob/main/docs/Integer_Fail.PNG) 
 
 Figure 6. Math integer fail.
+
 ![Math division error](https://github.com/Kumatakasan/IntroToProg-Python-Mod07/blob/main/docs/Math_DivisionError.PNG)
 
 Figure 7. Math division error.
