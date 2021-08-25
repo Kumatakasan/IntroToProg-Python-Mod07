@@ -16,4 +16,12 @@ We were tasked with creating our own program with no specific requirements.  I d
 
 Figure 1 shows some code for the pickling demo. Figure 2 shows the output of the pickling demo code.  Figure 3 shows the math processing code to check the input and to do the math.  Figure 4 shows the main part of the math script.  Figure 5 shows the math script having a successful run and output some math.  Figure 6 shows the response when the input is not a number.  Figure 7 shows the response when division by zero happens.
 
-(https://github.com/Kumatakasan/IntroToProg-Python-Mod07/blob/main/docs/Pickling_Code.PNG "Snippet of pickling code")#### Figure 1. Results of pickling code.
+![Pickling code](https://github.com/Kumatakasan/IntroToProg-Python-Mod07/blob/main/docs/Pickling_Code.PNG "Snippet of pickling code")#### Figure 1. Results of pickling code.
+
+
+
+
+
+
+## Summary
+Assignment 7 introduced us to using pickling for binary data and how to handle exceptions.  Pickling works much like working with a text file however it is in binary format.  Using exceptions in your code is a good way to deal with wrong inputs so that the program doesn’t crash.  
