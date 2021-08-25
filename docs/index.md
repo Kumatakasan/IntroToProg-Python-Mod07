@@ -13,4 +13,7 @@ This type of code is used to keep the program running and giving user feedback i
 
 ## Creating the Program
 We were tasked with creating our own program with no specific requirements.  I decided to follow the Lab7.1_starter.py for the main pickling demo.  This sample asked to take in an ID number and assign it to a name.  Then I moved onto another script for an easier demo of exception handling in python using the previous assignment of doing some math.  This involved making sure the inputs are integers and catching the dividing by zero error.
+
 Figure 1 shows some code for the pickling demo. Figure 2 shows the output of the pickling demo code.  Figure 3 shows the math processing code to check the input and to do the math.  Figure 4 shows the main part of the math script.  Figure 5 shows the math script having a successful run and output some math.  Figure 6 shows the response when the input is not a number.  Figure 7 shows the response when division by zero happens.
+
+(https://github.com/Kumatakasan/IntroToProg-Python-Mod07/blob/main/docs/Pickling_Code.PNG "Snippet of pickling code")#### Figure 1. Results of pickling code.
