@@ -18,11 +18,12 @@ Figure 1 shows some code for the pickling demo. Figure 2 shows the output of the
 
 ![Pickling code](https://github.com/Kumatakasan/IntroToProg-Python-Mod07/blob/main/docs/Pickling_Code.PNG "Snippet of pickling code")
 Figure 1. Results of pickling code.
-
-
-
-
-
+![Pickling code output](https://github.com/Kumatakasan/IntroToProg-Python-Mod07/blob/main/docs/Pickling_Output.PNG "Snippet of pickling code")
+![Math processing code](https://github.com/Kumatakasan/IntroToProg-Python-Mod07/blob/main/docs/Math_Processor_Code.PNG "Snippet of pickling code")
+![Math main input code](https://github.com/Kumatakasan/IntroToProg-Python-Mod07/blob/main/docs/Math_Main_Input_Code.PNG "Snippet of pickling code")
+![Math correct output](https://github.com/Kumatakasan/IntroToProg-Python-Mod07/blob/main/docs/Math_Correct_Output.PNG "Snippet of pickling code")
+![Math integer fail](https://github.com/Kumatakasan/IntroToProg-Python-Mod07/blob/main/docs/Integer_Fail.PNG "Snippet of pickling code")
+![Math division error](https://github.com/Kumatakasan/IntroToProg-Python-Mod07/blob/main/docs/Math_DivisionError.PNG "Snippet of pickling code")
 
 ## Summary
 Assignment 7 introduced us to using pickling for binary data and how to handle exceptions.  Pickling works much like working with a text file however it is in binary format.  Using exceptions in your code is a good way to deal with wrong inputs so that the program doesn’t crash.  
