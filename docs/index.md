@@ -16,7 +16,8 @@ We were tasked with creating our own program with no specific requirements.  I d
 
 Figure 1 shows some code for the pickling demo. Figure 2 shows the output of the pickling demo code.  Figure 3 shows the math processing code to check the input and to do the math.  Figure 4 shows the main part of the math script.  Figure 5 shows the math script having a successful run and output some math.  Figure 6 shows the response when the input is not a number.  Figure 7 shows the response when division by zero happens.
 
-![Pickling code](https://github.com/Kumatakasan/IntroToProg-Python-Mod07/blob/main/docs/Pickling_Code.PNG)\nFigure 1. Results of pickling code.
+![Pickling code](https://github.com/Kumatakasan/IntroToProg-Python-Mod07/blob/main/docs/Pickling_Code.PNG)
+     Figure 1. Results of pickling code.
 ![Pickling code output](https://github.com/Kumatakasan/IntroToProg-Python-Mod07/blob/main/docs/Pickling_Output.PNG)
 ![Math processing code](https://github.com/Kumatakasan/IntroToProg-Python-Mod07/blob/main/docs/Math_Processor_Code.PNG)
 ![Math main input code](https://github.com/Kumatakasan/IntroToProg-Python-Mod07/blob/main/docs/Math_Main_Input_Code.PNG)
