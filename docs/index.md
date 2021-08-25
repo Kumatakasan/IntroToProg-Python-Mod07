@@ -1,5 +1,6 @@
 # Assignment 07
 *GKumataka, 08.23.2021
+*Foundations of Programming - Python
 
 ## Introduction
 In This document I will be going over the process I used in completing assignment 07 of the course “Foundations of Programming: Python” by instructor Randall Root.  The assignment is to create a custom program showing use of “pickle” and binary formats.  Also including creating own exception handling.  
